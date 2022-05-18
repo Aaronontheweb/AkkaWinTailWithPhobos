@@ -1,0 +1,7 @@
+﻿phobos {
+	tracing {
+	    trace-all-user-actors = on
+		trace-actor-lifecycle = off
+		create-trace-upon-receive = off
+	}
+}
